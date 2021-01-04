@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "疾风工作室,fengyun, 风云, Gale_Studio"
 url: "http://wang161113.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wang161113/wang161113.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
