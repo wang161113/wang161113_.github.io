@@ -1,16 +1,16 @@
 # Site settings
-title: 疾风工作室
-SEOTitle: 疾风工作室 | Gale_Studio
+title: Gale_Studio
+SEOTitle: Gale_Studio
 header-img: img/post-bg-coffee.jpeg
 email: 1778326022@qq.com
 description: "Every failure is leading towards success."
-keyword: "疾风工作室,fengyun, 风云, Gale_Studio"
+keyword: "Gale_Studio,fengyun, 风云, Gale_Studio"
 url: "http://wang161113.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wang161113/wang161113.github.io" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
